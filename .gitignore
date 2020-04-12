@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+# except
+first-data-parsing/
 
 # local env files
 .env.local

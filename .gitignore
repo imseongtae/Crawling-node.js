@@ -2,7 +2,7 @@
 node_modules
 /dist
 # except
-first-data-parsing/
+test/
 
 # local env files
 .env.local

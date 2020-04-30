@@ -3,6 +3,7 @@ node_modules
 /dist
 # except
 test/
+*.jpeg
 
 # local env files
 .env.local

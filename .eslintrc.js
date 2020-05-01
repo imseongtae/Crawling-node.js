@@ -5,7 +5,7 @@ module.exports = {
     browser:true,
   },
   parser: "babel-eslint",
-  // plugins: [],
+  plugins: [],
   extends: [
     "eslint:recommended",
     "plugin:prettier/recommended"
